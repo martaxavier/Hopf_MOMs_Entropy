@@ -6,10 +6,13 @@
 %
 %  Needs: bandpasshopf.m, conver_back_to_time.m, subplot_tight.m
 %
-% July 2024
-% Joana Cabral, Francesca Castaldo and Marta Xavier
+% July 2021
+% Joana Cabral, Francesca Castaldo 
 % joanacabral@med.uminho.pt
 % francesca.castaldo.20@ucl.ac.uk
+% 
+% Adapted in July 2024
+% Marta Xavier
 % marta.xavier@tecnico.ulisboa.pt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all; close all; 
