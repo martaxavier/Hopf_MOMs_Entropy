@@ -27,7 +27,7 @@ low_pass = 30;
 
 folder = 'C:\Users\marta\OneDrive\Documentos\LASEEB\Simulations\FEP_MOMs\';
 
-K='1E1'; MD='10';
+K='1E1'; MD='3';
 simulation_file = {strcat('Hopf_Simu_K', K, '_MD0.mat') strcat('Hopf_Simu_K', K, '_MD', MD, '.mat')};
 
 folder_pars = fullfile(folder, strcat('K', K, '_MD', MD)); mkdir(folder_pars);
