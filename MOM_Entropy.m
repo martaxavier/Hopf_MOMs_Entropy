@@ -15,7 +15,8 @@
 % Marta Xavier
 % marta.xavier@tecnico.ulisboa.pt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-clear all; close all; 
+simu=1; %select your simulation of interest
+simulation_names={'NoDelays','WeakK','IntermediateK','StrongK','LongDelays'};
 
 % Frequency bands to analyze (in Hz)
 delta = [0.5 4];
